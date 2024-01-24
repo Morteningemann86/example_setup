@@ -1,0 +1,4 @@
+URL=http://example.com
+LOGIN_USER=admin
+LOGIN_PASS=secret
+RECIPIENT_EMAIL=example@example.com
